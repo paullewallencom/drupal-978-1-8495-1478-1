@@ -1,0 +1,9 @@
+Drupal 7 CCK
+
+Drupal Admin
+Username: admin
+Password: drupalrocks
+
+Username: Jack Davis
+Password: drupalrocks
+
